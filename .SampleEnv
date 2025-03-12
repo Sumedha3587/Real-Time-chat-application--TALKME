@@ -1,0 +1,17 @@
+
+
+MONGO_URI = mongodb+srv://ankushrajpck2:2XXEFOhDwiY8yKgo@Cluster0.la1z8.mongodb.net/
+
+
+JWT_SECRET=djgjkdshbgjkhfnjksdfhbnsjkdfsdhjfk
+
+ADMIN_SECRET_KEY= 3333
+
+NODE_ENV = DEVELOPMENT
+
+CLIENT_URL = frontend url
+
+
+CLOUDINARY_CLOUD_NAME= dp8tpzoub
+CLOUDINARY_API_KEY = 528648945267864
+CLOUDINARY_API_SECRET =  7vtOe09KNA2snWH8xIrvic0etmo
